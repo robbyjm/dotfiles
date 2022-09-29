@@ -1,0 +1,11 @@
+{
+	"coc.preferences.formatOnType": true,
+	"tsserver.formatOnType": true,
+	"codeLens.enable": true,
+	"html.format.wrapAttributes": "force-expand-multiline",
+	"diagnostic.refreshOnInsertMode": true,
+	"coc.preferences.formatOnTypeFiletypes": ["*"],
+	"python.jediEnabled": false,
+	"python.formatting.provider": "black"
+}
+
