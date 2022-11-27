@@ -8,6 +8,7 @@ return require('packer').startup(function(use)
 	use 'prettier/vim-prettier'
 	use 'rafamadriz/friendly-snippets'
 	use 'lifepillar/vim-gruvbox8'
+	use 'Pocco81/auto-save.nvim'
 	use {
 	  "startup-nvim/startup.nvim",
 	requires = {"nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim"},

@@ -1,20 +1,18 @@
 {
   "suggest.pumFloatConfig": {
     "rounded": true,
-    "border": true,
-    "maxWidth": 800
+    "border": true
   },
   "suggest.completionItemKindLabels": {
     "method": "",
     "function": ""
   },
+  "html.filetypes": ["html", "handlebars", "htmldjango", "blade"],
   "coc.preferences.extensionUpdateCheck": "daily",
   "coc.preferences.formatOnType": true,
-  "tsserver.formatOnType": true,
   "codeLens.enable": true,
-  "html.format.wrapAttributes": "force-expand-multiline",
+  "prettier.singleQuote": true,
   "diagnostic.refreshOnInsertMode": true,
-  "coc.preferences.formatOnTypeFiletypes": ["*"],
   "python.jediEnabled": false,
   "python.formatting.provider": "black"
 }
